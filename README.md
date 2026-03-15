@@ -15,6 +15,7 @@ dsa question of mine leetcode
 | [0217-contains-duplicate](https://github.com/aman99kumar/Dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aman99kumar/Dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aman99kumar/Dsa/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/aman99kumar/Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,16 +23,19 @@ dsa question of mine leetcode
 | [0169-majority-element](https://github.com/aman99kumar/Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aman99kumar/Dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aman99kumar/Dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aman99kumar/Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aman99kumar/Dsa/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/aman99kumar/Dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aman99kumar/Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aman99kumar/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/aman99kumar/Dsa/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/aman99kumar/Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +55,7 @@ dsa question of mine leetcode
 | [0169-majority-element](https://github.com/aman99kumar/Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aman99kumar/Dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aman99kumar/Dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aman99kumar/Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |

@@ -10,6 +10,7 @@ dsa question of mine leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aman99kumar/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/aman99kumar/Dsa/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman99kumar/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/aman99kumar/Dsa/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,8 @@ dsa question of mine leetcode
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman99kumar/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/aman99kumar/Dsa/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

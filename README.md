@@ -7,6 +7,7 @@ dsa question of mine leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aman99kumar/Dsa/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aman99kumar/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/aman99kumar/Dsa/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
@@ -16,4 +17,8 @@ dsa question of mine leetcode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aman99kumar/Dsa/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aman99kumar/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
